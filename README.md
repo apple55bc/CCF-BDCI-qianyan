@@ -16,3 +16,7 @@
 * data：存放各类聊天数据。参照/data.png的文件结构。
 
 注意不要覆盖vocab.txt 有修改
+
+
+transformers==3.4.0
+torch==1.7.0
